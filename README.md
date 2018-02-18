@@ -51,3 +51,22 @@ Reduces radiation exposure
 Improves training satisfaction scores
 
  ImmersiveTouch provides the critical ability to reduce risk, surgical error and procedure time while improving patient outcomes, safety and satisfaction.
+
+## Could this lead to varying degrees of simulator sickness? 
+
+It will lead to some degrees of headache, eyestrain, and fatigue. My rating on the scale is 3.
+
+## The potential applications?
+
+there are several urologic training simulators using the VR technique such as the digital rectal examination to detect prostate cancer, transurethral resection of the prostate, flexible ureteroscopy, and laparoscopic and robotic surgery. A novel application of VR/AR in neurourology is necessary after reviewing and understanding the VR/AR technology
+
+## What are the similar applications?
+
+Medical Realities is working on a simulating surgery with their ‘Virtual Surgeon;
+Deepstream VR is an organization whose emphasis is on pain relief;
+Virtually Better is attempting to utilize VR in various therapies and treatments;
+Firsthand Technology is an organization which represents the synergy which can occur between Healthcare and Gaming when using VR technology
+
+## Conclusion
+
+It is necessary to highlight that VR's development is rapid. Many Silicon Valley companies invest enough money in the VR. And VR is used widely in many industries, such as gaming industry, film industry and journalism. I encourage people who have never used VR before to find a headset and immerse themselves in the powerful works of visual reality. 
