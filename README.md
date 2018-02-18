@@ -38,19 +38,27 @@ Patient education and engagement
 Engagement and education empowers patients and can increase patient satisfaction. ImmersiveTouch VR allows doctors to walk patients through the proposed intervention and provides an opportunity to actively consult with them.
 Through VR doctors can:
 Educate patients and reduce anxiety
+
 Empower patients to ask questions and increase understanding
+
 Encourage patients to participate in final decision making
+
 Improve compliance with post surgical care
 
 Virtual reality is transforming professional training in healthcare. Increase retention and reduce radiation exposure with medical VR training programs that are realistic, immersive and repeatable. Ensure all levels of staff accurately execute medical procedures and handle complications appropriately before touching real patients. ImmersiveTouch MissionRehearsal® VR is changing the way organizations train people. Gain an edge today with these proven advantages:
 Drastically improves retention of topics
+
 Boosts productivity
+
 Increases patient safety
+
 Brings an enhanced level of realism to training scenarios
+
 Reduces radiation exposure
+
 Improves training satisfaction scores
 
- ImmersiveTouch provides the critical ability to reduce risk, surgical error and procedure time while improving patient outcomes, safety and satisfaction.
+ImmersiveTouch provides the critical ability to reduce risk, surgical error and procedure time while improving patient outcomes, safety and satisfaction.
 
 ## Could this lead to varying degrees of simulator sickness? 
 
