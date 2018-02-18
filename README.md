@@ -2,6 +2,9 @@
 # Topic: ImmersiveTouch
 ## What is it:
 
+![ScreenShot](https://i.imgur.com/n1zHkTU.png)
+
+
 ImmersiveTouch builds AR/VR software that trains physicians with medical devices on virtual patients built from CT/MRI.Medical device companies are using MissionRehearsal® VR as a valuable new training platform.  
 
 Click the link to watch what it is:
